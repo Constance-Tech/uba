@@ -1,1 +1,3 @@
-Welcome to UBA
+Welcome to UBA Bank
+Your financial partner.
+
